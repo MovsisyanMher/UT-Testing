@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTTesting", "UTTesting\UTTesting.csproj", "{2C6EFF6B-B27D-48BB-9A34-08968554D4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6EFF6B-B27D-48BB-9A34-08968554D4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6EFF6B-B27D-48BB-9A34-08968554D4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6EFF6B-B27D-48BB-9A34-08968554D4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6EFF6B-B27D-48BB-9A34-08968554D4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D477A08-8C3F-4D65-9580-B3875D14842C}
+	EndGlobalSection
+EndGlobal
